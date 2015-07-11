@@ -61,6 +61,9 @@ Navigate in your browser to localhost:3000
 As a "guest" you can view and navigate the site but will not be able to manipulate posts or delete comments. 
 To test these functions visit localhost:3000/users/sign_up. Once signed in you will have all admin access.
 
+Heroku
+https://dry-oasis-5252.herokuapp.com/
+
 ### License ###
 Copyright  (C)  2015  Jennifer Bolanos
 
